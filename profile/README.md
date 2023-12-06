@@ -16,7 +16,7 @@ https://github.com/23-Samsung-Securities/.github/assets/86800087/4ea83569-8268-4
 
 ### 🙌 Contributors
 
-<div align="left">
+<div align="center">
 <table style="font-weight : bold">
       <tr>
            <td align="center">
