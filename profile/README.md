@@ -6,6 +6,14 @@
 ### 💭 ADS
 > `모니모` 내 2030 고객 유치를 위한 신규 마이데이터 서비스 제안
 
+![image](https://github.com/23-Samsung-Securities/.github/assets/86800087/22804893-d821-4c7a-8137-e7dacd8c8aa2)
+
+<br>
+
+### 📍 Features
+![image](https://github.com/23-Samsung-Securities/.github/assets/86800087/71ab6110-13da-475a-bb53-11276f92a694)
+![image](https://github.com/23-Samsung-Securities/.github/assets/86800087/4cbbc48a-c83d-4b42-a1c3-e3fe89b9107c)
+
 <br>
 
 ### 🎞️ Demo Video
