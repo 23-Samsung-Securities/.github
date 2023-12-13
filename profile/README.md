@@ -1,5 +1,5 @@
-# 모니모 <img src="https://github.com/23-Samsung-Securities/.github/assets/86800087/515b31bf-0de4-4a0c-a465-5870aacfa1d6" align=left width=100>
-> 모이는 금융 커지는 혜택 💰
+# 자산팔레트 <img src="https://github.com/23-Samsung-Securities/.github/assets/86800087/515b31bf-0de4-4a0c-a465-5870aacfa1d6" align=left width=100>
+> 모이는 금융 커지는 혜택, 2030 고객 유치를 위한 신규 마이데이터 서비스 💰
 
 <br>
 
